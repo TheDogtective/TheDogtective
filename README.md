@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+⚡ Fun fact: the fusion point of cobalt on the surface of the moon is of 1495°
 <!--
 **TheDogtective/TheDogtective** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
